@@ -8,71 +8,101 @@
   <a href="mailto:matheuslinodossantos@hotmail.com">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
+
   <a href="https://www.artstation.com/ilkini" target="_blank">
     <img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" />
   </a>
-  <a href="https://github.com/Matheuslino-java" target="_blank">
+
+  <a href="https://github.com/matheuslino-dev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🎨 About Me
+# 👨‍💻 About Me
 
-- My name is **Matheus**, also known as **Ilkini** (my artistic name).
-- I'm a passionate **developer, artist, and creator** from **Brazil** 🇧🇷.
-- Currently a **student** and working at **Itaú Unibanco**, always learning and exploring new ideas.
-- I love building creative projects and helping others through code and design.
-- Actively looking for opportunities to **collaborate and grow professionally**.
-
----
-
-## 🚀 Goals
-
-- 📚 Improve my programming and artistic skills.  
-- 🌍 Contribute to open-source projects.  
-- 🤝 Connect with other creative minds around the world.  
+- Python Developer focused on backend development and automation.
+- Currently working at Itaú Unibanco developing internal solutions and process automations.
+- Computer Science student passionate about software engineering and backend systems.
+- Interested in APIs, automation, scalable applications and clean architecture.
+- Continuously improving my skills through projects and practical development.
 
 ---
 
-## 🌐 More About Me
+# 🚀 Current Goals
 
-- 📧 Email: **matheuslinodossantos@hotmail.com**  
-- 🎨 Portfolio Art: [ArtStation - Ilkini](https://www.artstation.com/ilkini)  
-
-> *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House  
+- Improve my backend development skills with Python.
+- Build scalable APIs and real-world applications.
+- Contribute to open-source projects.
+- Grow professionally as a Software Developer.
 
 ---
 
-## 🛠️ Languages & Tools
+# 🛠️ Technologies & Tools
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="45" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="45" alt="fastapi logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="github logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="docker logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="45" alt="aws logo" />
+
 </div>
 
 ---
 
-## 📊 GitHub Stats
+# 📌 Featured Projects
+
+## 🔹 Python Automation
+Automation scripts focused on productivity and process optimization using Python.
+
+## 🔹 FastAPI REST API
+Backend API project using FastAPI, authentication and CRUD operations.
+
+## 🔹 Backend Studies
+Repository dedicated to backend studies, software architecture and APIs.
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Matheuslino-java&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Matheuslino-java&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=matheuslino-dev&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheuslino-dev&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" />
+
 </div>
 
 ---
 
-## 🕹️ Fun Contribution Graph
+# 🌐 Contact
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Matheuslino-java/Matheuslino-java/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Matheuslino-java/Matheuslino-java/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Matheuslino-java/Matheuslino-java/output/pacman-contribution-graph.svg">
-</picture>
+- 📧 Email: **matheuslinodossantos@hotmail.com**
+- 🎨 Art Portfolio: **https://www.artstation.com/ilkini**
+
+---
+
+> “Programs must be written for people to read.” – Harold Abelson
 
 ---
 
